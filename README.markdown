@@ -1,5 +1,7 @@
 # Canvas
 
+[![Build Status](https://travis-ci.org/bfoz/ruby-canvas.png)](https://travis-ci.org/bfoz/ruby-canvas)
+
 Representations of 2D graphics primitives and operations
 
 ## Installation
