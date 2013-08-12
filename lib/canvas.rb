@@ -1,0 +1,3 @@
+module Canvas
+  # Your code goes here...
+end
